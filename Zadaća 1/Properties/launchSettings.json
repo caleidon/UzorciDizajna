@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "avranic_zadaca_1": {
+      "commandName": "Project",
+      "commandLineArgs": "-l DZ_1_luka.csv -v DZ_1_vez.csv -b DZ_1_brod.csv -r DZ_1_raspored.csv"
+    }
+  }
+}
